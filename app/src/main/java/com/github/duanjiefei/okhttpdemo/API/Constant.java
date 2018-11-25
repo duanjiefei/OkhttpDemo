@@ -18,6 +18,6 @@ public class Constant {
     public static final String JU_HE_NEWS_APP_KEY = "a9872c2ef3107a22853d07fd54527067";
 
     public static final String HTTP_BIN = "https://httpbin.org/post";
-    //测试文件下载的链接 http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4
+    public static final String Video_URL = " http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4";
 
 }
